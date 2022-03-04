@@ -2,79 +2,325 @@
   "/": {
     "title": "🪴 Quartz 3.1",
     "content": "Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features\n1. Extremely fast full-text search by pressing `/`\n2. Display for backlinks of each note\n3. Fully customizable local graph view\n4. Endlessly powerful page and theme customization using CSS\n5. Automatically generated tag and section lists of content\n6. Beautiful link previews\n\n## Get Started\n\u003e 📚 [Setup your own digital garden using Quartz](notes/setup.md)\n\nNot convinced yet? Look at some [community digital gardens](notes/showcase.md) built with Quartz, or read about [why I made Quartz](notes/philosophy.md) to begin with!\n\n## Content Lists\nIf you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:\n\n- [All Notes](/notes)\n- [Setup-related Notes](/tags/setup)\n\n## Troubleshooting\n- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)\n- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)\n- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)",
-    "lastmodified": "2022-03-04T12:50:50.331217369Z",
+    "lastmodified": "2022-03-04T13:02:53.150727699Z",
+    "tags": null
+  },
+  "/Aktivitas": {
+    "title": "Aktivitas",
+    "content": "Die Aktivitas ist der Verbindungsteil, dem die Führung und Gestaltung des Verbindungslebens obliegt. Man unterteilt die \"Aktiven\" in Burschen und Fuchsen.\n\nBurschen sind vollberechtigte Mitglieder, d. h. sie haben Stimmrecht auf Conventen, können Chargen übernehmen etc. Den [Fuchsen](Fuchsia.md), die zunächst als Probemitglieder aufgenommen werden, kommt ein eigener Status zu. Sie werden erst in die Verbindung eingeführt ([Fuchsenconvente](Fuchsenconvent%20(FC).md) etc.) und können erst nach einer gewissen Zeit vollberechtigt aufgenommen werden ([Burschung](Burschung.md)).",
+    "lastmodified": "2022-03-04T13:02:53.146727723Z",
+    "tags": null
+  },
+  "/Allgemeiner-Convent-AC": {
+    "title": "Allgemeiner Convent (AC)",
+    "content": "",
+    "lastmodified": "2022-03-04T13:02:53.146727723Z",
+    "tags": null
+  },
+  "/Alte-Aufnahmeriten": {
+    "title": "Alte Aufnahmeriten",
+    "content": "# Deposition\nUnter _Deposition_ versteht man ein \"Aufnahmeritual\", das Neulinge zur Aufnahme in [Bursen](Bursen%20–%20erste%20studentische%20Wohngemeinschaften.md) und [Nationes](Nationes.md) durchstehen mussten. Aus dem Lateinischen übersetzt bedeutet der Begriff _Deposition_ etwa das \"Ablegen\" (des früheren Lebens, der ungehobelten Sitten etc.).\n\nDiese Tradition verbreitete sich von Paris aus und wurde schon bald zum offiziellen Aufnahmeritus einer Universität. Sinn und Zweck war es, \"aus dem ungeschliffenen Diamanten einen echten Studenten zu machen\". Dabei musste der Student grausame psychische und physische Folterungen über sich ergehen lassen. Auch jegliches Geld wurde ihm abgenommen.\n\n# Pennalismus\nDer Pennalismus leitet sich vom Wort _penna_ (lat.: \"Feder\") ab. Pennalismus bildete sich im engen Zusammenhang mit der Deposition aus. Dieser Brauch wurden von den Landsmannschaften eingeführt und wurde später als Nachfolge der Deposition angesehen. Für den \"Neuankömmling\" bedeutete dies, dass er für einen älteren Student in den Vorlesungen mitschreiben musste.\n\nDer Pennalismus verschwand ab 1670, gleichzeitig wurden auch die Nationes verboten.",
+    "lastmodified": "2022-03-04T13:02:53.146727723Z",
+    "tags": null
+  },
+  "/Altherren-Chargenconvent-AHChC": {
+    "title": "Altherren-Chargenconvent (AHChC)",
+    "content": "",
+    "lastmodified": "2022-03-04T13:02:53.146727723Z",
+    "tags": null
+  },
+  "/Altherrenconvent-AHC": {
+    "title": "Altherrenconvent (AHC)",
+    "content": "",
+    "lastmodified": "2022-03-04T13:02:53.146727723Z",
+    "tags": null
+  },
+  "/Altherrenschaft": {
+    "title": "Altherrenschaft",
+    "content": "Alte Herren nennt man jene Verbindungsmitglieder, die bereits im Familien- und Berufsleben stehen. Sie beteiligen sich am aktiven Verbindungsleben nicht mehr so intensiv wie in ihrer Schulzeit. Zumeist besuchen sie die großen Verbindungsveranstaltungen, oftmals treffen sich die Alten Herren auch in eigenen Zirkeln.\n\nBei couleurstudentischen Veranstaltungen und beim [Burschenconvent (BC)](Burschenconvent%20(BC).md) gelten Alte Herren als [Burschen](Bursch.md), weil sie über dieselben Rechte wie aktive Burschen (\"Burschenrechte\") verfügen.",
+    "lastmodified": "2022-03-04T13:02:53.146727723Z",
+    "tags": null
+  },
+  "/Amicitia": {
+    "title": "Amicitia",
+    "content": "\"Amicitia\" ist der lateinische Name für unser Prinzip der lebenslangen Freundschaft.\n\nDie Mitgliedschaft in einer Verbindung ist geprägt durch Brüderlichkeit und Lebensfreundschaft. Diese beruht auf Gemeinschaftserlebnissen und dem Verfolgen gemeinsamer Ziele und Werte. Nach außen verbindet uns das Tragen von Couleur und der \"Du-Comment\".",
+    "lastmodified": "2022-03-04T13:02:53.146727723Z",
+    "tags": null
+  },
+  "/Aufbau-einer-Verbindung": {
+    "title": "Aufbau einer Verbindung",
+    "content": "---\n\nRechtlich betrachtet sind Studentenverbindungen Vereine. Als solche müssen sie den österreichischen Gesetzen entsprechen; ihre Gründung und ihr Bestehen müssen bei der zuständigen Vereinsbehörde (BH oder Magistrat) angezeigt werden. Dort liegen auch die [Statuten](Statuten.md) der Verbindung öffentlich auf.\n\nIn einer Verbindung gibt es eine Vielzahl von Organen und Einrichtungen, etwa die verschiedenen Convente, Kommissionen bzw. Chargen oder Funktionäre. Die genauen Bestimmungen zum Aufbau findet man in der jeweiligen [Geschäftsordnung (GO)](Geschäftsordnung%20(GO).md) der Verbindung; hier zeigt sich auch, dass die einzelnen Verbindungen in Detailfragen verschiedene Regelungen — je nach Bedarf — vereinbart haben.",
+    "lastmodified": "2022-03-04T13:02:53.146727723Z",
+    "tags": null
+  },
+  "/Bursch": {
+    "title": "Bursch",
+    "content": "",
+    "lastmodified": "2022-03-04T13:02:53.146727723Z",
+    "tags": null
+  },
+  "/Burschenconvent-BC": {
+    "title": "Burschenconvent (BC)",
+    "content": "",
+    "lastmodified": "2022-03-04T13:02:53.146727723Z",
+    "tags": null
+  },
+  "/Burschung": {
+    "title": "Burschung",
+    "content": "",
+    "lastmodified": "2022-03-04T13:02:53.146727723Z",
+    "tags": null
+  },
+  "/Bursen-erste-studentische-Wohngemeinschaften": {
+    "title": "Bursen – erste studentische Wohngemeinschaften",
+    "content": "Aufgrund der ansteigenden Zahl an Studenten herrschte in Paris ein Mangel an Wohnungen. 1257 gründete Robert von Sorbonne die erste \"Burse\". Dies war eine Wohn-, Ess- und Lerngemeinschaft. Der Name \"Burse\" leitete sich von dem Wort \"Börse\" ab. Für den Aufenthalt in einer Burse musste ein wöchentlicher Betrag gezahlt werden, aus welchem die Gemeinschaft lebte. Der einzelne Bewohner wurde _Bursant_, _Bursgesell_ oder _Mitbursche_ genannt. Die Gesamtheit hieß die \"Bursch\". Heutige Bezeichnungen wie \"Bursch\" oder \"Bude\" stammen von den Bursen.\n\nZu Beginn der Reformation im 16. Jahrhundert zerfielen die Bursen.",
+    "lastmodified": "2022-03-04T13:02:53.146727723Z",
+    "tags": null
+  },
+  "/Chargenconvent-ChC": {
+    "title": "Chargenconvent (ChC)",
+    "content": "",
+    "lastmodified": "2022-03-04T13:02:53.146727723Z",
+    "tags": null
+  },
+  "/Comment": {
+    "title": "Comment",
+    "content": "",
+    "lastmodified": "2022-03-04T13:02:53.146727723Z",
+    "tags": null
+  },
+  "/Convente": {
+    "title": "Convente",
+    "content": "---\n\nDie Convente (von lat. _convenire_: \"zusammenkommen\") sind die willensbildenden (legislativen) Organe einer Verbindung. Auf den Conventen wird nicht nur diskutiert, sondern es werden auch Beschlüsse gefasst.\n\nDie folgenden Convente unterscheiden sich in ihren Zuständigkeiten:\n\n- [Cumulativconvent (CC)](Cumulativconvent%20(CC).md)\n- [Burschenconvent (BC)](Burschenconvent%20(BC).md)\n- [Altherrenconvent (AHC)](Altherrenconvent%20(AHC).md)",
+    "lastmodified": "2022-03-04T13:02:53.146727723Z",
+    "tags": null
+  },
+  "/Cumulativconvent-CC": {
+    "title": "Cumulativconvent (CC)",
+    "content": "",
+    "lastmodified": "2022-03-04T13:02:53.146727723Z",
+    "tags": null
+  },
+  "/Entstehung-der-ersten-Hochschulen": {
+    "title": "Entstehung der ersten Hochschulen",
+    "content": "# **Orte antiker Schule**\n\nDie ersten Ausbildungsstätten bildeten sich in den Hauptstädten antiker Hochkulturen. Beispiele dafür sind Athen, Alexandria und Athen. Auch in Byzanz (ab 330 n.Chr.: Konstantinopel) gab es eine antike Schule.\n\n# **Bildung im deutschsprachigen Raum**\n\nNach dem Vorbild der antiken Schulen bildeten sich auch im deutschsprachigen Raum Bildungseinrichtungen. Im Zuge der Christianisierung entstanden Klosterschulen für die Ordensgeistlichkeit. Für den Weltklerus wurden Domschulen gegründet. Charakteristisch für diese Schulen waren strenge Disziplin, Ausbildung in lateinischer Sprache, Psalmen und Kirchengesang. Für diese Schulen wurde aus der Antike auch der Bildungskanon übernommen, die [Septem Artes Liberales](Septem%20Artes%20Liberales.md).\n\n# **Erste Hochschule in Europa – Bologna**\n\nDie erste Hochschule der Welt wurde in Kairo ca. 970 gegründet. Aus dem arabischen Raum kamen Impulse über Spanien nach Europa. 1088, so nimmt man an, wurde im italienischen Bologna die erste europäische Hochschule für Jurisprudenz gegründet.\n\nAn der Hochschule in Bologna wurden die Studenten in _nationes_ (lat.: \"Länderschaften\") eingeteilt. Es gab drei _nationes citramontanorum_ (die \"Länderschaften diesseits der Berge\") und 14 _nationes ultramontanorum_ (\"... jenseits der Berge\"). Die Diesseitigen waren Studenten aus Italien, die Jenseitigen aus dem Rest der Welt. Die Grenze zwischen Dies- und Jenseitigen zog man entlang der Alpen.\n\nIm 14. Jahrhundert entstand hier in Bologna die _universitas magistrorum et scholarium_ (lat.: \"Gemeinschaft der Lehrenden und Lernenden\"), wovon sich unser Wort \"Universität\" ableitet.\n\n# **Die erste deutsche Universität – Prag**\n\nAm 7. April 1348 stiftete Kaiser Karl IV. in Prag die _alma mater carolina_ (_alma mater_ = \"nährende Mutter\", übliches Attribut für Unis), die erste Universität im (damals) deutschsprachigen Raum. Die Universität in Prag wurde nach dem Vorbild der Sorbonne in vier Fakultäten aufgeteilt: Theologie, Philosophie, Jurisprudenz und Medizin/Naturwissenschaften.\n\nDie Studenten wurden in vier _nationes_ eingeteilt, die Studenten aus den vier Himmelsrichtungen aufnahmen. Es gab eine bayrische Nation (Westen), eine böhmische (Süden), eine polnische (Osten) und eine sächsische (Norden).\n\nAb 1674 erfolgte Unterricht auch in deutscher Sprache, ab 1848 wurde auch in Tschechisch gelehrt und 1882 folgte die Aufteilung in eine deutsche und eine tschechische Universität.\n\n# **Alma Mater Rudolphina – Universität Wien**\n\nAm 12. März 1365 wurde die _alma mater rudolphina vindobonensis_ von Rudolf IV. \"dem Stifter\" als _universitas magistrorum et scholarium_ (\"Gemeinschaft der Lehrenden und Lernenden\") gegründet. Direkt nach der Gründung umfasste sie nur drei der vier Fakultäten. Die theologische Fakultät wurde erst 1384 unter Albrecht III. und Papst Urban VI. eingegliedert, dadurch wurde die Wiener Universität zur \"Volluniversität\". Im Aufbau ahmte die Universität Wien die Prager Universität nach.\n\nNach dem abendländischen Schisma (1378-1417) wanderten viele Studenten und Professoren von der Sorbonne nach Wien, was für einen großen Aufschwung der theologischen Fakultät sorgte. Später steigt die Bedeutung der Universität Wien v.a. durch die Universitätsklinik. 1884 wurde das heutige Hauptgebäude am Ring eröffnet. Ein stetiger Anstieg der Studentenzahlen führte u.a. zur Eröffnung des NIG (Neues Institutsgebäude), des Campus und des Juridicums. 2004 wurde die medizinische Fakultät ausgegliedert und die Medizinische Universität gegründet.",
+    "lastmodified": "2022-03-04T13:02:53.146727723Z",
+    "tags": null
+  },
+  "/Fuchsenconvent-FC": {
+    "title": "Fuchsenconvent (FC)",
+    "content": "",
+    "lastmodified": "2022-03-04T13:02:53.150727699Z",
+    "tags": null
+  },
+  "/Fuchsia": {
+    "title": "Fuchsia",
+    "content": "Die Fuchsia ist die Gesamtheit aller Fuchsen einer Verbindung. Fuchsen sind noch nicht vollberechtigte Mitglieder, sondern nur Mitglieder auf Probe. Deswegen nimmt die Fuchsia innerhalb der Verbindung eine Sonderstellung ein.\n\nAn der Spitze der Fuchsia steht der [Fuchsmajor (FM)](Fuchsmajor%20(FM).md). Sein oberster Auftrag ist, die Fuchsen bestmöglich auszubilden und den Neumitgliedern einen guten Einstieg ins Verbindungsleben zu ermöglichen.\n\nAls Probemitglieder sind Fuchsen noch nicht berechtigt, an den beschlussfassenden Sitzungen ([Convente](Convente.md)) der Verbindung teilzunehmen. Deshalb wird die Fuchsia dort vom Fuchsmajor oder vom jeweiligen [Leibbursch](Leibbursch.md) vertreten.\n\nNoch nicht wirklich Teil der Fuchsia, obwohl er auch so genannt wird, ist ein [Spefuchs](Spefuchs.md).",
+    "lastmodified": "2022-03-04T13:02:53.150727699Z",
+    "tags": null
+  },
+  "/Fuchsmajor-FM": {
+    "title": "Fuchsmajor (FM)",
+    "content": "",
+    "lastmodified": "2022-03-04T13:02:53.150727699Z",
+    "tags": null
+  },
+  "/Funktionäre-und-Kommissionen": {
+    "title": "Funktionäre und Kommissionen",
+    "content": "",
+    "lastmodified": "2022-03-04T13:02:53.150727699Z",
+    "tags": null
+  },
+  "/Gesangsconvent-GC": {
+    "title": "Gesangsconvent (GC)",
+    "content": "",
+    "lastmodified": "2022-03-04T13:02:53.150727699Z",
+    "tags": null
+  },
+  "/Geschäftsordnung-GO": {
+    "title": "Geschäftsordnung (GO)",
+    "content": "Die GO regelt den alltäglichen Ablauf in der Verbindung, z.B. den Ablauf von Conventen oder Aufgaben von Chargen. Sie ist nach innen gerichtet und nur für die Mitglieder einsehbar. Sie ist sehr genau und detailliert formuliert, sollte logisch aufgebaut sein und die Regelungen der GO dürfen den [Statuten](Statuten.md) nicht widersprechen.\n\nAllgemeine Blöcke können als [Ordnungen](Ordnungen.md) ausgelagert werden.\n\n\u003eDie GO ist nicht als [Comment](Comment.md) zu verstehen. Dieser ist eine Sammlung studentischer Traditionen, die GO aber ein festgelegtes und verbindliches Regelwerk.\n\n\u003eWusstest du, dass auch der MKV Statuten und eine Geschäftsordnung hat? Als Senior könntest du das mal brauchen. Du kannst sie per E-Mail anfordern: kanzlei@mkv.at",
+    "lastmodified": "2022-03-04T13:02:53.150727699Z",
+    "tags": null
+  },
+  "/Haftung": {
+    "title": "Haftung",
+    "content": "Grundsätzlich haftet ein Verein für seine Verbindlichkeiten mit dem eigenen Vermögen. Verstößt ein Vereinsorgan aber gegen gesetzliche oder statutarische Verpflichtungen, haftet es persönlich für den dadurch entstandenen Schaden. Bei unentgeltlicher Tätigkeit — wie bei einer Verbindung — haftet ein Vereinsorgan nur bei grober Fahrlässigkeit oder bei Vorsatz.\n\n\u003eWeitere Informationen: https://www.oesterreich.gv.at/themen/freizeit_und_strassenverkehr/vereine/Seite.220920.html",
+    "lastmodified": "2022-03-04T13:02:53.150727699Z",
+    "tags": null
+  },
+  "/Leibbursch": {
+    "title": "Leibbursch",
+    "content": "",
+    "lastmodified": "2022-03-04T13:02:53.150727699Z",
+    "tags": null
+  },
+  "/Nationes": {
+    "title": "Nationes",
+    "content": "Die Studenten im romanischen Sprachraum (z.B. Italien, Frankreich) wurden in _Nationes_ unterteilt. Diese \"Nationen\" dienten dem Zweck, ein Gemeinschaftsgefühl entstehen zu lassen und sich mit Landsleuten am Studienort Einfluss zu verschaffen.\n\nBei Eintritt in die Nation musste ein Eid abgelegt werden, welcher den Neuling fest an die Nation band. Wie in einer heutigen Verbindung gab es schon damals ein Conventsgeheimnis (das Gelöbnis, keine Informationen an Nicht-Mitglieder weiterzugeben). \n\nIm deutschsprachigen Raum gab es die Nationes nur an den Universitäten in Prag, Wien und Leipzig.",
+    "lastmodified": "2022-03-04T13:02:53.150727699Z",
+    "tags": null
+  },
+  "/Ordnungen": {
+    "title": "Ordnungen",
+    "content": "Nicht alle Bereiche, die allgemein geregelt werden sollen, können in die [Geschäftsordnung (GO)](Geschäftsordnung%20(GO).md)Geschäftsordnung (GO) aufgenommen werden, das würde deren Rahmen sprengen. Solche Themengebiete, die zwar einer Regelung bedürfen, aber keinen Platz in der GO haben, werden als Ordnungen ausgegliedert.\n\n\u003eDie Ordnungen müssen mit den Regelungen der GO im Einklang stehen.\n\nDer Vorteil von Ordnungen ist, dass sie leichter zu ändern sind als die GO. Gängige Beispiele sind eine Prüfungsordnung oder eine Budenordnung.",
+    "lastmodified": "2022-03-04T13:02:53.150727699Z",
+    "tags": null
+  },
+  "/Organe-der-Verbindung": {
+    "title": "Organe der Verbindung",
+    "content": "---\n\nGenauso wie der Staat ist auch eine Verbindung demokratisch aufgebaut. Die Statuten (Satzungen) haben die gleiche Aufgabe wie im Staat die Verfassung. Deswegen ist auch in der Verbindung das Prinzip der Gewaltentrennung umgesetzt.\n\nDie verschiedenen Organe oder Einrichtungen einer Verbindung haben unterschiedliche Aufgaben. Einige bestimmen, was in der Verbindung geschehen soll (Wahl und Abstimmungen), andere sind für die Ausführung der Beschlüsse verantwortlich und wieder andere für die Rechtsprechung.\n\n# Willensbildende Verbindungsorgane\n\n- [Cumulativconvent (CC)](Cumulativconvent%20(CC).md)\n- [Burschenconvent (BC)](Burschenconvent%20(BC).md)\n- [Altherrenconvent (AHC)](Altherrenconvent%20(AHC).md)\n\n# Ausführende Verbindungsorgane\n\n- [Chargenconvent (ChC)](Chargenconvent%20(ChC).md) bzw. -kabinett\n- [Altherren-Chargenconvent (AHChC](Altherren-Chargenconvent%20(AHChC.md) bzw. -kabinett\n- [Funktionäre und Kommissionen](Funktionäre%20und%20Kommissionen.md)\n\n# Rechtsprechendes Verbindungsorgan\n\n- [Verbindungsgericht (VG)](Verbindungsgericht%20(VG).md)]",
+    "lastmodified": "2022-03-04T13:02:53.150727699Z",
+    "tags": null
+  },
+  "/Patria": {
+    "title": "Patria",
+    "content": "\"Patria\" ist der lateinische Name für unser Prinzip der Heimatverbundenheit. \n\nWir bekennen uns zur Republik Österreich in einem geeinten Europa. Politisches Engagement ist für uns ein wichtiges Anliegen, wobei wir parteipolitisch nicht gebunden sind. Europa ist für uns ein Friedensprojekt und eine Wertegemeinschaft für Menschenrechte, Demokratie und Rechtsstaatlichkeit. Die Treue zum Vaterland spiegeln das Engagement in der Gesellschaft und das Ableisten des Grundwehrdienstes oder des Zivildienstes wider.",
+    "lastmodified": "2022-03-04T13:02:53.150727699Z",
+    "tags": null
+  },
+  "/Prinzipien": {
+    "title": "Prinzipien",
+    "content": "Jede Gemeinschaft hat ein gewisses Selbstverständnis, das nach innen und nach außen gelebt werden soll. In unseren Verbindungen ist es ein gemeinsames Wertesystem: die vier Prinzipien.\n\nDiese vier Prinzipien beziehen sich auf verschiedene Aspekte unserer gemeinsamen Geisteshaltung. Unsere grundlegende Weltanschauung, unser Heimatverständnis, unsere Position zum Thema Bildung und die Beziehung untereinander werden in den Prinzipien zusammengefasst.\n\nWir bezeichnen unsere Prinzipien mit den vier lateinischen Begriffen [Religio](Religio.md), [Patria](Patria.md), [Scientia](Scientia.md) und [Amicitia](Amicitia.md).",
+    "lastmodified": "2022-03-04T13:02:53.150727699Z",
+    "tags": null
+  },
+  "/Recht-in-der-Verbindung": {
+    "title": "Recht in der Verbindung",
+    "content": "## Artikel\n[Statuten](Statuten.md)\n[Geschäftsordnung (GO)](Geschäftsordnung%20(GO).md)\n[Ordnungen](Ordnungen.md)\n[Haftung](Haftung.md)\n[Vertretungsbefugnis](Vertretungsbefugnis.md)",
+    "lastmodified": "2022-03-04T13:02:53.150727699Z",
+    "tags": null
+  },
+  "/Religio": {
+    "title": "Religio",
+    "content": "\"Religio\" ist der lateinische Name für unser Prinzip der katholischen Weltanschauung. \n\nAlle Mitglieder katholischer Verbindungen müssen getauft sein. Wir bekennen uns zu den Werten und der Überzeugung des katholischen Glaubens und leben ihn. Dabei orientieren wir uns an der katholischen Soziallehre und dem Gebot der Nächstenliebe.",
+    "lastmodified": "2022-03-04T13:02:53.150727699Z",
+    "tags": null
+  },
+  "/Scientia": {
+    "title": "Scientia",
+    "content": "\"Scientia\" ist der lateinische Name für unser Prinzip des Strebens nach Wissen. \n\nWir sind Schüler und Absolventen höherer Schulen, die sich gegenseitig fördern und einander auf dem Bildungsweg motivieren. Wir setzen uns in Österreich dafür ein, dass jeder Mensch Zugang zur für ihn bestmöglichen Bildung hat. Hauptanliegen sind z.B. das differenzierte Schulsystem und die Beibehaltung des Religionsunterrichts.",
+    "lastmodified": "2022-03-04T13:02:53.150727699Z",
+    "tags": null
+  },
+  "/Septem-Artes-Liberales": {
+    "title": "Septem Artes Liberales",
+    "content": "Die \"sieben freien Künste\" (lat.) bildeten lange die Grundlage, die man beherrschen musste, um studieren zu dürfen. Sie teilten sich in zwei Teile: Das _Trivium_ (lat.: \"Dreiweg\") und das _Quadrivium_ (\"Vierweg\").\n\nDas _Trivium_ bestand aus Grammatik, Rhetorik und Dialektik (antike Bezeichnung für Logik). Das _Quadrivium_ teilte sich in Arithmetik, Geometrie, Astronomie (entspricht eher der heutigen Astrologie) und Musik.\n\nDiese Künste wurden in der \"Artistenfakultät\" gelehrt. Man kann ihren Abschluss mit der heutigen Matura, welche erst 1848 eingeführt wurde, vergleichen. Nach Erlernen dieser sieben Fertigkeiten konnte man sich für ein Studium der Philosophie, Medizin, Rechtswissenschaften oder Theologie entscheiden.\n\n## Warum eigentlich genau sieben?\n\nMit den _septem artes liberales_ wurde die Besonderheit der \"Heiligen Zahl Sieben\" unterstrichen. Die 3 ist die Zahl Gottes, weil sie die Dreifaltigkeit darstellt. Die Zahl 4 steht für die Welt und ihre vier Himmelsrichtungen. \"Gott und die Welt\" (3 und 4) zusammen ergibt 7.\n\nSchon in der Antike wurden die _septem artes liberales_ teilweise um Architektur und Medizin ergänzt. Sie wurden dann auch die _novem artes liberales_ (lat.: \"neun freie Künste\") genannt.",
+    "lastmodified": "2022-03-04T13:02:53.150727699Z",
+    "tags": null
+  },
+  "/Spefuchs": {
+    "title": "Spefuchs",
+    "content": "",
+    "lastmodified": "2022-03-04T13:02:53.150727699Z",
+    "tags": null
+  },
+  "/Statuten": {
+    "title": "Statuten",
+    "content": "Die Statuten beinhalten die notwendigsten Informationen über den Verein und definieren so den nach außen sichtbaren Rahmen. Sie sind kurz und prägnant formuliert und klar verständlich verfasst. Die Statuten liegen auf der zuständigen Vereinsbehörde auf und sind offen einsehbar.\n\nDie in den Statuten notwendig enthaltenen Informationen sind:\n\n- Name und Sitz des Vereins\n- ZVR-Zahl (=Vereinszahl; _ZVR_: Zentrales Vereinsregister)\n- Vereinszweck\n- Tätigkeit\n- Aufbringung finanzieller Mittel\n- Arten und Erwerb der Mitgliedschaft\n- Organe des Vereins\n- Beschlussfassungen\n- Interne Schlichtungen\n- Selbstauflösung",
+    "lastmodified": "2022-03-04T13:02:53.150727699Z",
+    "tags": null
+  },
+  "/Studentenprivilegien": {
+    "title": "Studentenprivilegien",
+    "content": "Weil die Reisen zu und zwischen den Studienorten sehr beschwerlich waren, brauchten Studenten auf diesen Reisen Schutz. Aus diesem Grund wurde 1155 von Kaiser Fridrich Barbarossa die authentica habita (das \"Scholarenprivileg\") erlassen.\n\nEs umfasste Privilegien des Klerus, z.B. das Tragen eines Talars, und Privilegien des Adels, z.B. das Tragen einer Waffe. Studenten durften nun auch aus Studiengründen durchs Land reisen und sich in der Stadt der Universität niederlassen. Es gab einen besonderen Schutz vor Vergeltungsmaßnahmen. Studenten unterstanden universitärer oder bischöflicher Gerichtsbarkeit — keiner weltlichen Rechtsprechung.",
+    "lastmodified": "2022-03-04T13:02:53.150727699Z",
+    "tags": null
+  },
+  "/Studentischer-Werdegang": {
+    "title": "Studentischer Werdegang",
+    "content": "Zu Beginn des Studiums galt man im Mittelalter als _scholaris simplex_ (lat.: \"einfacher Student\"), was heute in etwa einem Lehrling entspricht. Danach wurde man _Baccalaureus_. Dieser Titel wurde von einem _Magister_ verliehen und bestätigte, dass man die lateinische Sprache verstehen konnte und so auch den Unterricht verstand. Der _Baccalaureus_ entspricht etwa dem heutigen Gesellen.\n\nNach abgeschlossenem Studium wurde man _Magister_, was dem Grad eines Meisters entspricht. Danach konnte man noch _Doctor_ oder _Licentiatus_ werden: Damit hatte man die Erlaubnis, an der Universität zu lehren.\n\nBis zum Bolognaprozess 2013 war man an der Universität zuerst _Studens_. Nach Abschluss des Studiums erlangte man den Titel _Magister_. Daneben war es möglich, ein Lizentiat zu erlangen, also die universitäre Lehrerlaubnis. Als höchster Abschluss konnte man den Titel _Doktor_ erlangen. Seit dem Bolognaprozess sind die Abschlussgrade der meisten Studien in Bachelor, Master und den PhD (_philosophiae doctor_ oder Doctor of Philosophy) unterteilt.",
+    "lastmodified": "2022-03-04T13:02:53.150727699Z",
+    "tags": null
+  },
+  "/Verbindungsgericht-VG": {
+    "title": "Verbindungsgericht (VG)",
+    "content": "",
+    "lastmodified": "2022-03-04T13:02:53.150727699Z",
+    "tags": null
+  },
+  "/Vertretungsbefugnis": {
+    "title": "Vertretungsbefugnis",
+    "content": "Ein Verein ist eine juristische Person und kann als solche auch Träger von Rechten und Pflichten sein. Eine juristische Person selbst kann aber keine Handlungen setzten, die sie berechtigt oder verpflichtet, deshalb muss sie in Rechtsgeschäften des Alltags *vertreten* werden. Berechtigt zu dieser Vertretung sind die vertretungsbefugten Organe. Wie in jedem Verein sind die *Vorstandmitglieder* solche Organe, die im Namen der Verbindung Geschäfte abschließen dürfen. Welche Mitglieder des [Aktiven-ChC](Chargenconvent%20(ChC).md) oder [Altherren-ChC](Altherren-Chargenconvent%20(AHChC.md) Teil des Vorstands sind, ist in den [Statuten](Statuten.md) geregelt.",
+    "lastmodified": "2022-03-04T13:02:53.150727699Z",
+    "tags": null
+  },
+  "/_Templates/Eintrag": {
+    "title": "{{title}}",
+    "content": "",
+    "lastmodified": "2022-03-04T13:02:53.150727699Z",
     "tags": null
   },
   "/notes/Obsidian": {
     "title": "Obsidian Vault Integration",
     "content": "## Setup\nObsidian is the preferred way to use Quartz. You can either create a new Obsidian Vault or link one that your already have.\n\n### New Vault\nIf you don't have an existing Vault, [download Obsidian](https://obsidian.md/) and create a new Vault in the `/content` folder that you created and cloned during the [setup](notes/setup.md) step.\n\n### Linking an existing Vault\nThe easiest way to use an existing Vault is to copy all of your files (directory and hierarchies intact) into the `/content` folder.\n\n## Settings\nGreat, now that you have your Obsidian linked to your Quartz, let's fix some settings so that they play well.\n\n1. Under Options \u003e Files and Links, set the New link format to always be Absolute Path in Vault and disabled WikiLinks so Obsidian generates regular Markdown links.\n2. Go to Settings \u003e Files \u0026 Links \u003e Turn \"on\" automatically update internal links.\n3. Use [[Wikilinks]] should be off (Wikilinks are not officially supported yet)\n\n![Obsidian Settings](/notes/images/obsidian-settings.png)*Obsidian Settings*\n\n## Templates\nInserting front matter everytime you want to create a new Note gets annoying really quickly. Luckily, Obsidian supports templates which makes inserting new content really easily.\n\n**If you decide to overwrite the `/content` folder completely, don't remove the `/content/templates` folder!**\n\nHead over to Options \u003e Core Plugins and enable the Templates plugin. Then go to Options \u003e Hotkeys and set a hotkey for 'Insert Template' (I recomment `[cmd]+T`). That way, when you create a new note, you can just press the hotkey for a new template and be ready to go!",
-    "lastmodified": "2022-03-04T12:50:50.331217369Z",
+    "lastmodified": "2022-03-04T13:02:53.150727699Z",
     "tags": null
   },
   "/notes/config": {
     "title": "Configuration",
     "content": "## Configuration\nQuartz is designed to be extremely configurable. You can find the bulk of the configuration scattered throughout the repository depending on how in-depth you'd like to get.\n\nThe majority of configuration can be be found under `data/config.yaml`. An annotated example configuration is shown below.\n\n```yaml\nname: Your name here! # Shows in the footer\nenableToc: true # Whether to show a Table of Contents\nenableLinkPreview: true # whether to render card previews for links\ndescription: Page description to show to search engines\npage_title: Quartz Example Page # Default Page Title\n\nlinks: # Links to show in footer\n  - link_name: Twitter\n    link: https://twitter.com/_jzhao\n  - link_name: Github\n    link: https://github.com/jackyzha0\n```\n\n### Graph View\nTo customize the Interactive Graph view, you can poke around `data/graphConfig.yaml`.\n\n```yaml\nenableLegend: false # automatically generate a legend\nenableDrag: true # allow dragging nodes in the graph\nenableZoom: true # allow zooming and panning the graph\ndepth: -1 # how many neighbours of the current node to show (-1 is all nodes)\npaths: # colour specific nodes path off of their path\n  - /moc: \"#4388cc\"\n```\n\n\n## Styling\nWant to go even more in-depth? You can add custom CSS styling and change existing colours through editing `assets/custom.scss`. If you'd like to target specific parts of the site, you can add ids and classes to the HTML partials in `/layouts/partials`. \n\n### Partials\nPartials are what dictate what actually gets rendered to the page. Want to change how pages are styled and structured? You can edit the appropriate layout in `/layouts`.\n\nFor example, the structure of the home page can be edited through `/layouts/index.html`. To customize the footer, you can edit `/layouts/partials/footer.html`\n\nMore info about partials on [Hugo's website.](https://gohugo.io/templates/partials/)\n\nStill having problems? Checkout our [FAQ and Troubleshooting guide](notes/troubleshooting.md).\n\n## Multilingual\nWant to support languages that read from right-to-left (like Arabic)? Hugo (and by proxy, Quartz) supports this natively.\n\nFollow the steps [Hugo provides here](https://gohugo.io/content-management/multilingual/#configure-languages) and modify your `config.toml`\n\nFor example:\n\n```toml\ndefaultContentLanguage = 'ar'\n[languages]\n  [languages.ar]\n    languagedirection = 'rtl'\n    title = 'مدونتي'\n    weight = 1\n```",
-    "lastmodified": "2022-03-04T12:50:50.331217369Z",
+    "lastmodified": "2022-03-04T13:02:53.150727699Z",
     "tags": null
   },
   "/notes/custom-Domain": {
     "title": "Custom Domain",
     "content": "### Registrar\nThis step is only applicable if you are using a **custom domain**! If you are using a `\u003cYOUR-USERNAME\u003e.github.io` domain, you can skip this step.\n\nFor this last bit to take effect, you also need to create a CNAME record with the DNS provider you register your domain with (i.e. NameCheap, Google Domains).\n\nGitHub has some [documentation on this](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site), but the tldr; is to\n\n1. Go to your forked repository (`github.com/\u003cYOUR-GITHUB-USERNAME\u003e/quartz`) settings page and go to the Pages tab. Under \"Custom domain\", type your custom domain, then click **Save**.\n2. Go to your DNS Provider and create a CNAME record that points from your domain to `\u003cYOUR-GITHUB-USERNAME.github.io.` (yes, with the trailing period).\n\n\t![Example Configuration for Quartz](/notes/images/google-domains.png)*Example Configuration for Quartz*\n3. Wait 30 minutes to an hour for the network changes to kick in.\n4. Done!",
-    "lastmodified": "2022-03-04T12:50:50.331217369Z",
+    "lastmodified": "2022-03-04T13:02:53.150727699Z",
     "tags": null
   },
   "/notes/editing": {
     "title": "Editing Content in Quartz",
     "content": "---\n\n## Editing \nQuartz runs on top of [Hugo](https://gohugo.io/) so all notes are written in [Markdown](https://www.markdownguide.org/getting-started/).\n\n### Obsidian\nI recommend using [Obsidian](http://obsidian.md/) as a way to edit and grow your digital garden. It comes with a really nice editor and graphical interface to preview all of your local files.\n\nThis step is **highly recommended**.\n\n🔗 [How to setup your Obsidian Vault to work with Quartz](notes/obsidian.md)\n\n### Ignoring Files\nOnly want to publish a subset of all of your notes? Don't worry, Quartz makes this a simple two-step process.\n\n❌ [Excluding pages from being published](notes/ignore%20notes.md)\n\n### Folder Structure\nHere's a rough overview of what's what.\n\n**All content in your garden can found in the `/content` folder.** To make edits, you can open any of the files and make changes directly and save it. You can organize content into any folder you'd like.\n\n**To edit the main home page, open `/content/_index.md`.*\n\nTo create a link between notes in your garden, just create a normal link using Markdown pointing to the document in question. Please note that **all links should be relative to the root `/content` path**. \n\n```markdown\nFor example, I want to link this current document to `notes/config.md`.\n[A link to the config page](notes/config.md)\n```\n\nSimilarly, you can put local images anywhere in the `/content` folder.\n\n```markdown\nExample image (source is in content/notes/images/example.png)\n![Example Image](/content/notes/images/example.png)\n```\n\n### Front Matter\nHugo is picky when it comes to metadata for files. Make sure that your title is double-quoted and that you have a title defined at the top of your file like so. You can also add tags here as well.\n\n```markdown",
-    "lastmodified": "2022-03-04T12:50:50.331217369Z",
+    "lastmodified": "2022-03-04T13:02:53.150727699Z",
     "tags": null
   },
   "/notes/hosting": {
     "title": "Deploying Quartz to the Web",
     "content": "---\n\n## GitHub Pages\nQuartz is designed to be effortless to deploy. If you forked and cloned Quartz directly from the repository, everything should already be good to go! Follow the steps below.\n\n### Enable GitHub Actions\nBy default, GitHub disables workflows from running automatically on Forked Repostories. Head to the 'Actions' tab of your forked repository and Enable Workflows to setup deploying your Quartz site!\n\n![Enable GitHub Actions](notes/images/github-actions.png)*Enable GitHub Actions*\n\n### Enable GitHub Pages\n\nHead to the 'Settings' tab of your forked repository and go to the 'Pages' tab.\n\n1. (IMPORTANT) Set the source to deploy from `master` (and not `hugo`) using `/ (root)`\n2. Set a custom domain here if you have one!\n\n![Enable GitHub Pages](/notes/images/github-pages.png)*Enable GitHub Pages*\n\n### Pushing Changes\nTo see your changes on the internet, we need to push it them to GitHub. Quartz is a `git` repository so updating it is the same workflow as you would follow as if it were just a regular software project.\n\n```shell\n# Navigate to Quartz folder\ncd \u003cpath-to-quartz\u003e\n\n# Commit all changes\ngit add .\ngit commit -m \"message describing changes\"\n\n# Push to GitHub to update site\ngit push origin hugo\n```\n\nNote: we specifically push to the `hugo` branch here. Our GitHub action automatically runs everytime a push to is detected to that branch and then updates the `master` branch for redeployment.\n\n### Setting up the Site\nNow let's get this site up and running. Never hosted a site before? No problem. Have a fancy custom domain you already own or want to subdomain your Quartz? That's easy too.\n\nHere, we take advantage of GitHub's free page hosting to deploy our site. Change `baseURL` in `/config.toml`.\n\nMake sure that your `baseURL` has a trailing `/`!\n\n[Reference `config.toml` here](https://github.com/jackyzha0/quartz/blob/hugo/config.toml)\n\n```toml\nbaseURL = \"https://\u003cYOUR-DOMAIN\u003e/\"\n```\n\nIf you are using this under a subdomain (e.g. `\u003cYOUR-GITHUB-USERNAME\u003e.github.io/quartz`), include the trailing `/`.\n\n```toml\nbaseURL = \"https://\u003cYOUR-GITHUB-USERNAME\u003e.github.io/quartz/\"\n```\n\nChange `cname` in `/.github/workflows/deploy.yaml`. Again, if you don't have a custom domain to use, you can use `\u003cYOUR-USERNAME\u003e.github.io`.\n\nPlease note that the `cname` field should *not* have any path `e.g. end with /quartz` or have a trailing `/`.\n\n[Reference `deploy.yaml` here](https://github.com/jackyzha0/quartz/blob/hugo/.github/workflows/deploy.yaml)\n\n```yaml\n- name: Deploy  \n  uses: peaceiris/actions-gh-pages@v3  \n  with:  \n\tgithub_token: ${{ secrets.GITHUB_TOKEN }} # this can stay as is, GitHub fills this in for us!\n\tpublish_dir: ./public  \n\tpublish_branch: master\n\tcname: \u003cYOUR-DOMAIN\u003e\n```\n\nHave a custom domain? [Learn how to set it up with Quartz ](notes/custom%20Domain.md).",
-    "lastmodified": "2022-03-04T12:50:50.331217369Z",
+    "lastmodified": "2022-03-04T13:02:53.150727699Z",
     "tags": null
   },
   "/notes/ignore-notes": {
     "title": "Ignoring Notes",
     "content": "---\n\n### Quartz Ignore\nEdit `ignoreFiles` in `config.toml` to include paths you'd like to exclude from being rendered.\n\n```toml\n...\nignoreFiles = [  \n    \"/content/templates/*\",  \n    \"/content/private/*\", \n    \"\u003cyour path here\u003e\"\n]\n```\n\n`ignoreFiles` supports the use of Regular Expressions (RegEx) so you can ignore patterns as well (e.g. ignoring all `.png`s by doing `\\\\.png$`).\nTo ignore a specific file, you can also add the tag `draft: true` to the frontmatter of a note.\n\n```markdown",
-    "lastmodified": "2022-03-04T12:50:50.331217369Z",
+    "lastmodified": "2022-03-04T13:02:53.150727699Z",
     "tags": null
   },
   "/notes/obsidian": {
     "title": "Obsidian Vault Integration",
     "content": "## Setup\nObsidian is the preferred way to use Quartz. You can either create a new Obsidian Vault or link one that your already have.\n\n### New Vault\nIf you don't have an existing Vault, [download Obsidian](https://obsidian.md/) and create a new Vault in the `/content` folder that you created and cloned during the [setup](notes/setup.md) step.\n\n### Linking an existing Vault\nThe easiest way to use an existing Vault is to copy all of your files (directory and hierarchies intact) into the `/content` folder.\n\n## Settings\nGreat, now that you have your Obsidian linked to your Quartz, let's fix some settings so that they play well.\n\n1. Under Options \u003e Files and Links, set the New link format to always be Absolute Path in Vault and disabled WikiLinks so Obsidian generates regular Markdown links.\n2. Go to Settings \u003e Files \u0026 Links \u003e Turn \"on\" automatically update internal links.\n3. Use [[Wikilinks]] should be off (Wikilinks are not officially supported yet)\n\n![Obsidian Settings](/notes/images/obsidian-settings.png)*Obsidian Settings*\n\n## Templates\nInserting front matter everytime you want to create a new Note gets annoying really quickly. Luckily, Obsidian supports templates which makes inserting new content really easily.\n\n**If you decide to overwrite the `/content` folder completely, don't remove the `/content/templates` folder!**\n\nHead over to Options \u003e Core Plugins and enable the Templates plugin. Then go to Options \u003e Hotkeys and set a hotkey for 'Insert Template' (I recomment `[cmd]+T`). That way, when you create a new note, you can just press the hotkey for a new template and be ready to go!",
-    "lastmodified": "2022-03-04T12:50:50.335217405Z",
+    "lastmodified": "2022-03-04T13:02:53.154727674Z",
     "tags": null
   },
   "/notes/philosophy": {
     "title": "Quartz Philosophy",
     "content": "\u003e “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming\n\n## Why Quartz?\nHosting a public digital garden isn't easy. There are an overwhelming number of tutorials, resources, and guides for tools like [Notion](https://www.notion.so/), [Roam](https://roamresearch.com/), and [Obsidian](https://obsidian.md/), yet none of them have super easy to use *free* tools to publish that garden to the world.\n\nI've personally found that\n1. It's nice to access notes from anywhere\n2. Having a public digital garden invites open conversations\n3. It makes keeping personal notes and knowledge *playful and fun*\n\nI was really inspired by [Bianca](https://garden.bianca.digital/) and [Joel](https://joelhooks.com/digital-garden)'s digital gardens and wanted to try making my own.\n\n**The goal of Quartz is to make hosting your own public digital garden free and simple.** You don't even need your own website. Quartz does all of that for you and gives your own little corner of the internet.",
-    "lastmodified": "2022-03-04T12:50:50.335217405Z",
+    "lastmodified": "2022-03-04T13:02:53.154727674Z",
     "tags": null
   },
   "/notes/preview-changes": {
     "title": "Preview Changes",
     "content": "If you'd like to preview what your Quartz site looks like before deploying it to the internet, here's exactly how to do that!\n\nNote that both of these steps need to be completed.\n\n## Install `hugo-obsidian`\nThis step will generate the list of backlinks for Hugo to parse. Ensure you have [Go](https://golang.org/doc/install) (\u003e= 1.16) installed.\n\n```shell\n# Install and link `hugo-obsidian` locally\n$ go install github.com/jackyzha0/hugo-obsidian@latest\n\n# Navigate to your local Quartz folder\n$ cd \u003clocation-of-your-local-quartz\u003e\n\n# Scrape all links in your Quartz folder and generate info for Quartz\n$ hugo-obsidian -input=content -output=static -index -root=.\n```\n\nIf you are running into an error saying that `command not found: hugo-obsidian`, make sure you set your `GOPATH` correctly! This will allow your terminal to correctly recognize hugo-obsidian as an executable.\n\nAfterwards, start the Hugo server as shown above and your local backlinks and interactive graph should be populated!\n\n##  Installing Hugo\nHugo is the static site generator that powers Quartz. [Install Hugo with \"extended\" Sass/SCSS version](https://gohugo.io/getting-started/installing/) first. Then,\n\n```\n# Navigate to your local Quartz folder\n$ cd \u003clocation-of-your-local-quartz\u003e\n\n# Start local server\n$ hugo server\n\n# View your site in a browser at http://localhost:1313/\n```",
-    "lastmodified": "2022-03-04T12:50:50.335217405Z",
+    "lastmodified": "2022-03-04T13:02:53.154727674Z",
     "tags": null
   },
   "/notes/setup": {
     "title": "Setup",
     "content": "## Making your own Quartz\nSetting up Quartz requires a basic understanding of `git`. If you are unfamiliar, [this resource](https://resources.nwplus.io/2-beginner/how-to-git-github.html) is a great place to start!\n\n### Forking\n\u003e A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.\n\nNavigate to the GitHub repository for the Quartz project:\n\n📁 [Quartz Repository](https://github.com/jackyzha0/quartz)\n\nThen, Fork the repository into your own GitHub account. If you don't have an account, you can make on for free [here](https://github.com/join). More details about forking a repo can be found on [GitHub's documentation](https://docs.github.com/en/get-started/quickstart/fork-a-repo).\n\n### Cloning\nAfter you've made a fork of the repository, you need to download the files locally onto your machine. Ensure you have `git`, then type the following command replacing `YOUR-USERNAME` with your GitHub username.\n\n```shell\n$ git clone https://github.com/YOUR-USERNAME/quartz\n```\n\n## Editing\nGreat! Now you have everything you need to start editing and growing your digital garden. If you're ready to start writing content already, check out the recommended flow for editing notes in Quartz.\n\n✏️ [Editing Notes in Quartz](notes/editing.md)\n\nHaving problems? Checkout our [FAQ and Troubleshooting guide](notes/troubleshooting.md).",
-    "lastmodified": "2022-03-04T12:50:50.335217405Z",
+    "lastmodified": "2022-03-04T13:02:53.154727674Z",
     "tags": null
   },
   "/notes/showcase": {
     "title": "Showcase",
     "content": "Want to see what Quartz can do? Here are some cool community gardens :)\n\n- [Quartz Documentation (this site!)](https://quartz.jzhao.xyz/)\n- [Strengthening Online Social Bonds: Research Garden](https://communities.digital/)\n- [Jacky Zhao's Garden](https://garden.jzhao.xyz/)\n- [Anson Yu's Garden](http://garden.ansonyu.me/)\n- [Shihyu's PKM](https://shihyuho.github.io/pkm/)\n- [Chloe's Garden](https://garden.chloeabrasada.online/)\n- [SlRvb's Site](https://slrvb.github.io/Site/)\n- [Course notes for Information Technology Advanced Theory](https://a2itnotes.github.io/quartz/)\n- [Brandon Boswell's Garden](https://brandonkboswell.com)\n\nIf you want to see your own on here, submit a [Pull Request adding yourself to this file](https://github.com/jackyzha0/quartz/blob/hugo/content/moc/showcase.md)!",
-    "lastmodified": "2022-03-04T12:50:50.335217405Z",
+    "lastmodified": "2022-03-04T13:02:53.154727674Z",
     "tags": null
   },
   "/notes/troubleshooting": {
     "title": "Troubleshooting and FAQ",
     "content": "Still having trouble? Here are a list of common questions and problems people encounter when installing Quartz.\n\nWhile you're here, join our [Discord](https://discord.gg/cRFFHYye7t) :)\n\n### My GitHub pages is just showing the README and not Quartz\nMake sure you set the source to deploy from `master` (and not `hugo`) using `/ (root)`! See more in the [hosting](/notes/hosting) guide\n\n### Some of my pages have 'January 1, 0001' as the last modified date\nThis is a problem caused by `git` treating files as case-insensitive by default and some of your posts probably have capitalized file names. You can turn this off in your Quartz by running this command.\n\n```shell\n# in the root of your Quartz (same folder as config.toml)\ngit config core.ignorecase true\n\n# or globally (not recommended)\ngit config --global core.ignorecase true\n```\n\n### Can I publish only a subset of my pages?\nYes! Quartz makes selective publishing really easy. Heres a guide on [excluding pages from being published](notes/ignore%20notes.md).\n\n### Can I host this myself and not on GitHub Pages?\nYes! All built files can be found under `/public` in the `master` branch. More details under [hosting](notes/hosting.md).\n\n### Do I need a website already?\nNo! Setting up Quartz means you set up a site too :)\n\n### `command not found: hugo-obsidian`\nMake sure you set your `GOPATH` correctly! This will allow your terminal to correctly recognize `hugo-obsidian` as an executable.\n\n```shell\n# Add the following 2 lines to your ~/.bash_profile\nexport GOPATH=/Users/$USER/go\nexport PATH=$GOPATH/bin:$PATH\n\n# In your current terminal, to reload the session\nsource ~/.bash_profile\n```\n\n### How come my notes aren't being rendered?\nYou probably forgot to include front matter in your Markdown files. You can either setup [obsidian](notes/obsidian.md) to do this for you or you need to manually define it. More details in [the 'how to edit' guide](notes/editing.md).\n\n### My custom domain isn't working!\nWalk through the steps in [the hosting guide](notes/hosting.md) again. Make sure you wait 30 min to 1 hour for changes to take effect.\n\n### How do I setup Google Analytics?\nYou can edit it in `config.toml` and either use a V3 (UA-) or V4 (G-) tag.\n\n### How do I change the content on the home page?\nTo edit the main home page, open `/content/_index.md`.\n\n### How do I change the colours?\nYou can change the theme by editing `assets/custom.scss`. More details on customization and themeing can be found in the [customization guide](notes/config.md).\n\n### How do I add images?\nYou can put images anywhere in the `/content` folder. The only caveat is that you should reference them in your Markdown by prefixing it with a `/`.\n\n```markdown\nExample image (source is in content/notes/images/example.png)\n![Example Image](/content/notes/images/example.png)\n```\n\n### My Interactive Graph and Backlinks aren't up to date\nBy default, the `linkIndex.yaml` (which Quartz needs to generate the Interactive Graph and Backlinks) are not regenerated locally. To set that up, see the guide on [local editing](notes/editing.md)\n\n### Can I use React/Vue/some other framework?\nNot out of the box. You could probably make it work by editing `/layouts/_default/single.html` but that's not what Quartz is designed to work with. 99% of things you are trying to do with those frameworks you can accomplish perfectly fine using just vanilla HTML/CSS/JS.\n\n## Still Stuck?\nQuartz isn't perfect! If you're still having troubles, file an issue in the GitHub repo with as much information as you can reasonably provide. Alternatively, you can message me on [Twitter](https://twitter.com/_jzhao) and I'll try to get back to you as soon as I can.\n\n🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)",
-    "lastmodified": "2022-03-04T12:50:50.335217405Z",
+    "lastmodified": "2022-03-04T13:02:53.154727674Z",
     "tags": null
   }
 }

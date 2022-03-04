@@ -33,6 +33,257 @@
           "text": "Troubleshooting and FAQ"
         }
       ],
+      "/Aktivitas": [
+        {
+          "source": "/Aktivitas",
+          "target": "/Fuchsia",
+          "text": "Fuchsen"
+        },
+        {
+          "source": "/Aktivitas",
+          "target": "/Fuchsenconvent-FC",
+          "text": "Fuchsenconvente"
+        },
+        {
+          "source": "/Aktivitas",
+          "target": "/Burschung",
+          "text": "Burschung"
+        }
+      ],
+      "/Alte-Aufnahmeriten": [
+        {
+          "source": "/Alte-Aufnahmeriten",
+          "target": "/Bursen-%E2%80%93-erste-studentische-Wohngemeinschaften",
+          "text": "Bursen"
+        },
+        {
+          "source": "/Alte-Aufnahmeriten",
+          "target": "/Nationes",
+          "text": "Nationes"
+        }
+      ],
+      "/Altherrenschaft": [
+        {
+          "source": "/Altherrenschaft",
+          "target": "/Burschenconvent-BC",
+          "text": "Burschenconvent (BC)"
+        },
+        {
+          "source": "/Altherrenschaft",
+          "target": "/Bursch",
+          "text": "Burschen"
+        }
+      ],
+      "/Aufbau-einer-Verbindung": [
+        {
+          "source": "/Aufbau-einer-Verbindung",
+          "target": "/Statuten",
+          "text": "Statuten"
+        },
+        {
+          "source": "/Aufbau-einer-Verbindung",
+          "target": "/Gesch%C3%A4ftsordnung-GO",
+          "text": "Geschäftsordnung (GO)"
+        },
+        {
+          "source": "/Aufbau-einer-Verbindung",
+          "target": "/Aktivitas",
+          "text": "Aktivitas"
+        },
+        {
+          "source": "/Aufbau-einer-Verbindung",
+          "target": "/Altherrenschaft",
+          "text": "Altherrenschaft"
+        }
+      ],
+      "/Convente": [
+        {
+          "source": "/Convente",
+          "target": "/Cumulativconvent-CC",
+          "text": "Cumulativconvent (CC)"
+        },
+        {
+          "source": "/Convente",
+          "target": "/Burschenconvent-BC",
+          "text": "Burschenconvent (BC)"
+        },
+        {
+          "source": "/Convente",
+          "target": "/Altherrenconvent-AHC",
+          "text": "Altherrenconvent (AHC)"
+        },
+        {
+          "source": "/Convente",
+          "target": "/Chargenconvent-ChC",
+          "text": "Chargenconvent (ChC)"
+        },
+        {
+          "source": "/Convente",
+          "target": "/Altherren-Chargenconvent-AHChC",
+          "text": "Altherren-Chargenconvent (AHChC)"
+        },
+        {
+          "source": "/Convente",
+          "target": "/Fuchsenconvent-FC",
+          "text": "Fuchsenconvent (FC)"
+        },
+        {
+          "source": "/Convente",
+          "target": "/Allgemeiner-Convent-AC",
+          "text": "Allgemeiner Convent (AC)"
+        },
+        {
+          "source": "/Convente",
+          "target": "/Gesangsconvent-GC",
+          "text": "Gesangsconvent (GC)"
+        }
+      ],
+      "/Entstehung-der-ersten-Hochschulen": [
+        {
+          "source": "/Entstehung-der-ersten-Hochschulen",
+          "target": "/Septem-Artes-Liberales",
+          "text": "Septem Artes Liberales"
+        }
+      ],
+      "/Fuchsia": [
+        {
+          "source": "/Fuchsia",
+          "target": "/Fuchsmajor-FM",
+          "text": "Fuchsmajor (FM)"
+        },
+        {
+          "source": "/Fuchsia",
+          "target": "/Convente",
+          "text": "Convente"
+        },
+        {
+          "source": "/Fuchsia",
+          "target": "/Leibbursch",
+          "text": "Leibbursch"
+        },
+        {
+          "source": "/Fuchsia",
+          "target": "/Spefuchs",
+          "text": "Spefuchs"
+        }
+      ],
+      "/Geschäftsordnung-GO": [
+        {
+          "source": "/Geschäftsordnung-GO",
+          "target": "/Statuten",
+          "text": "Statuten"
+        },
+        {
+          "source": "/Geschäftsordnung-GO",
+          "target": "/Ordnungen",
+          "text": "Ordnungen"
+        },
+        {
+          "source": "/Geschäftsordnung-GO",
+          "target": "/Comment",
+          "text": "Comment"
+        }
+      ],
+      "/Ordnungen": [
+        {
+          "source": "/Ordnungen",
+          "target": "/Gesch%C3%A4ftsordnung-GO",
+          "text": "Geschäftsordnung (GO)"
+        }
+      ],
+      "/Organe-der-Verbindung": [
+        {
+          "source": "/Organe-der-Verbindung",
+          "target": "/Cumulativconvent-CC",
+          "text": "Cumulativconvent (CC)"
+        },
+        {
+          "source": "/Organe-der-Verbindung",
+          "target": "/Burschenconvent-BC",
+          "text": "Burschenconvent (BC)"
+        },
+        {
+          "source": "/Organe-der-Verbindung",
+          "target": "/Altherrenconvent-AHC",
+          "text": "Altherrenconvent (AHC)"
+        },
+        {
+          "source": "/Organe-der-Verbindung",
+          "target": "/Chargenconvent-ChC",
+          "text": "Chargenconvent (ChC)"
+        },
+        {
+          "source": "/Organe-der-Verbindung",
+          "target": "/Funktion%C3%A4re-und-Kommissionen",
+          "text": "Funktionäre und Kommissionen"
+        },
+        {
+          "source": "/Organe-der-Verbindung",
+          "target": "/Verbindungsgericht-VG",
+          "text": "Verbindungsgericht (VG)"
+        }
+      ],
+      "/Prinzipien": [
+        {
+          "source": "/Prinzipien",
+          "target": "/Religio",
+          "text": "Religio"
+        },
+        {
+          "source": "/Prinzipien",
+          "target": "/Patria",
+          "text": "Patria"
+        },
+        {
+          "source": "/Prinzipien",
+          "target": "/Scientia",
+          "text": "Scientia"
+        },
+        {
+          "source": "/Prinzipien",
+          "target": "/Amicitia",
+          "text": "Amicitia"
+        }
+      ],
+      "/Recht-in-der-Verbindung": [
+        {
+          "source": "/Recht-in-der-Verbindung",
+          "target": "/Statuten",
+          "text": "Statuten"
+        },
+        {
+          "source": "/Recht-in-der-Verbindung",
+          "target": "/Gesch%C3%A4ftsordnung-GO",
+          "text": "Geschäftsordnung (GO)"
+        },
+        {
+          "source": "/Recht-in-der-Verbindung",
+          "target": "/Ordnungen",
+          "text": "Ordnungen"
+        },
+        {
+          "source": "/Recht-in-der-Verbindung",
+          "target": "/Haftung",
+          "text": "Haftung"
+        },
+        {
+          "source": "/Recht-in-der-Verbindung",
+          "target": "/Vertretungsbefugnis",
+          "text": "Vertretungsbefugnis"
+        }
+      ],
+      "/Vertretungsbefugnis": [
+        {
+          "source": "/Vertretungsbefugnis",
+          "target": "/Chargenconvent-ChC",
+          "text": "Aktiven-ChC"
+        },
+        {
+          "source": "/Vertretungsbefugnis",
+          "target": "/Statuten",
+          "text": "Statuten"
+        }
+      ],
       "/notes/Obsidian": [
         {
           "source": "/notes/Obsidian",
@@ -164,6 +415,295 @@
       ]
     },
     "backlinks": {
+      "/Aktivitas": [
+        {
+          "source": "/Aufbau-einer-Verbindung",
+          "target": "/Aktivitas",
+          "text": "Aktivitas"
+        }
+      ],
+      "/Allgemeiner-Convent-AC": [
+        {
+          "source": "/Convente",
+          "target": "/Allgemeiner-Convent-AC",
+          "text": "Allgemeiner Convent (AC)"
+        }
+      ],
+      "/Altherren-Chargenconvent-AHChC": [
+        {
+          "source": "/Convente",
+          "target": "/Altherren-Chargenconvent-AHChC",
+          "text": "Altherren-Chargenconvent (AHChC)"
+        }
+      ],
+      "/Altherrenconvent-AHC": [
+        {
+          "source": "/Convente",
+          "target": "/Altherrenconvent-AHC",
+          "text": "Altherrenconvent (AHC)"
+        },
+        {
+          "source": "/Organe-der-Verbindung",
+          "target": "/Altherrenconvent-AHC",
+          "text": "Altherrenconvent (AHC)"
+        }
+      ],
+      "/Altherrenschaft": [
+        {
+          "source": "/Aufbau-einer-Verbindung",
+          "target": "/Altherrenschaft",
+          "text": "Altherrenschaft"
+        }
+      ],
+      "/Amicitia": [
+        {
+          "source": "/Prinzipien",
+          "target": "/Amicitia",
+          "text": "Amicitia"
+        }
+      ],
+      "/Bursch": [
+        {
+          "source": "/Altherrenschaft",
+          "target": "/Bursch",
+          "text": "Burschen"
+        }
+      ],
+      "/Burschenconvent-BC": [
+        {
+          "source": "/Altherrenschaft",
+          "target": "/Burschenconvent-BC",
+          "text": "Burschenconvent (BC)"
+        },
+        {
+          "source": "/Convente",
+          "target": "/Burschenconvent-BC",
+          "text": "Burschenconvent (BC)"
+        },
+        {
+          "source": "/Organe-der-Verbindung",
+          "target": "/Burschenconvent-BC",
+          "text": "Burschenconvent (BC)"
+        }
+      ],
+      "/Burschung": [
+        {
+          "source": "/Aktivitas",
+          "target": "/Burschung",
+          "text": "Burschung"
+        }
+      ],
+      "/Bursen-%E2%80%93-erste-studentische-Wohngemeinschaften": [
+        {
+          "source": "/Alte-Aufnahmeriten",
+          "target": "/Bursen-%E2%80%93-erste-studentische-Wohngemeinschaften",
+          "text": "Bursen"
+        }
+      ],
+      "/Chargenconvent-ChC": [
+        {
+          "source": "/Convente",
+          "target": "/Chargenconvent-ChC",
+          "text": "Chargenconvent (ChC)"
+        },
+        {
+          "source": "/Organe-der-Verbindung",
+          "target": "/Chargenconvent-ChC",
+          "text": "Chargenconvent (ChC)"
+        },
+        {
+          "source": "/Vertretungsbefugnis",
+          "target": "/Chargenconvent-ChC",
+          "text": "Aktiven-ChC"
+        }
+      ],
+      "/Comment": [
+        {
+          "source": "/Geschäftsordnung-GO",
+          "target": "/Comment",
+          "text": "Comment"
+        }
+      ],
+      "/Convente": [
+        {
+          "source": "/Fuchsia",
+          "target": "/Convente",
+          "text": "Convente"
+        }
+      ],
+      "/Cumulativconvent-CC": [
+        {
+          "source": "/Convente",
+          "target": "/Cumulativconvent-CC",
+          "text": "Cumulativconvent (CC)"
+        },
+        {
+          "source": "/Organe-der-Verbindung",
+          "target": "/Cumulativconvent-CC",
+          "text": "Cumulativconvent (CC)"
+        }
+      ],
+      "/Fuchsenconvent-FC": [
+        {
+          "source": "/Aktivitas",
+          "target": "/Fuchsenconvent-FC",
+          "text": "Fuchsenconvente"
+        },
+        {
+          "source": "/Convente",
+          "target": "/Fuchsenconvent-FC",
+          "text": "Fuchsenconvent (FC)"
+        }
+      ],
+      "/Fuchsia": [
+        {
+          "source": "/Aktivitas",
+          "target": "/Fuchsia",
+          "text": "Fuchsen"
+        }
+      ],
+      "/Fuchsmajor-FM": [
+        {
+          "source": "/Fuchsia",
+          "target": "/Fuchsmajor-FM",
+          "text": "Fuchsmajor (FM)"
+        }
+      ],
+      "/Funktion%C3%A4re-und-Kommissionen": [
+        {
+          "source": "/Organe-der-Verbindung",
+          "target": "/Funktion%C3%A4re-und-Kommissionen",
+          "text": "Funktionäre und Kommissionen"
+        }
+      ],
+      "/Gesangsconvent-GC": [
+        {
+          "source": "/Convente",
+          "target": "/Gesangsconvent-GC",
+          "text": "Gesangsconvent (GC)"
+        }
+      ],
+      "/Gesch%C3%A4ftsordnung-GO": [
+        {
+          "source": "/Aufbau-einer-Verbindung",
+          "target": "/Gesch%C3%A4ftsordnung-GO",
+          "text": "Geschäftsordnung (GO)"
+        },
+        {
+          "source": "/Ordnungen",
+          "target": "/Gesch%C3%A4ftsordnung-GO",
+          "text": "Geschäftsordnung (GO)"
+        },
+        {
+          "source": "/Recht-in-der-Verbindung",
+          "target": "/Gesch%C3%A4ftsordnung-GO",
+          "text": "Geschäftsordnung (GO)"
+        }
+      ],
+      "/Haftung": [
+        {
+          "source": "/Recht-in-der-Verbindung",
+          "target": "/Haftung",
+          "text": "Haftung"
+        }
+      ],
+      "/Leibbursch": [
+        {
+          "source": "/Fuchsia",
+          "target": "/Leibbursch",
+          "text": "Leibbursch"
+        }
+      ],
+      "/Nationes": [
+        {
+          "source": "/Alte-Aufnahmeriten",
+          "target": "/Nationes",
+          "text": "Nationes"
+        }
+      ],
+      "/Ordnungen": [
+        {
+          "source": "/Geschäftsordnung-GO",
+          "target": "/Ordnungen",
+          "text": "Ordnungen"
+        },
+        {
+          "source": "/Recht-in-der-Verbindung",
+          "target": "/Ordnungen",
+          "text": "Ordnungen"
+        }
+      ],
+      "/Patria": [
+        {
+          "source": "/Prinzipien",
+          "target": "/Patria",
+          "text": "Patria"
+        }
+      ],
+      "/Religio": [
+        {
+          "source": "/Prinzipien",
+          "target": "/Religio",
+          "text": "Religio"
+        }
+      ],
+      "/Scientia": [
+        {
+          "source": "/Prinzipien",
+          "target": "/Scientia",
+          "text": "Scientia"
+        }
+      ],
+      "/Septem-Artes-Liberales": [
+        {
+          "source": "/Entstehung-der-ersten-Hochschulen",
+          "target": "/Septem-Artes-Liberales",
+          "text": "Septem Artes Liberales"
+        }
+      ],
+      "/Spefuchs": [
+        {
+          "source": "/Fuchsia",
+          "target": "/Spefuchs",
+          "text": "Spefuchs"
+        }
+      ],
+      "/Statuten": [
+        {
+          "source": "/Aufbau-einer-Verbindung",
+          "target": "/Statuten",
+          "text": "Statuten"
+        },
+        {
+          "source": "/Geschäftsordnung-GO",
+          "target": "/Statuten",
+          "text": "Statuten"
+        },
+        {
+          "source": "/Recht-in-der-Verbindung",
+          "target": "/Statuten",
+          "text": "Statuten"
+        },
+        {
+          "source": "/Vertretungsbefugnis",
+          "target": "/Statuten",
+          "text": "Statuten"
+        }
+      ],
+      "/Verbindungsgericht-VG": [
+        {
+          "source": "/Organe-der-Verbindung",
+          "target": "/Verbindungsgericht-VG",
+          "text": "Verbindungsgericht (VG)"
+        }
+      ],
+      "/Vertretungsbefugnis": [
+        {
+          "source": "/Recht-in-der-Verbindung",
+          "target": "/Vertretungsbefugnis",
+          "text": "Vertretungsbefugnis"
+        }
+      ],
       "/Wikilinks": [
         {
           "source": "/notes/Obsidian",
@@ -340,6 +880,231 @@
     }
   },
   "links": [
+    {
+      "source": "/Aktivitas",
+      "target": "/Fuchsia",
+      "text": "Fuchsen"
+    },
+    {
+      "source": "/Aktivitas",
+      "target": "/Fuchsenconvent-FC",
+      "text": "Fuchsenconvente"
+    },
+    {
+      "source": "/Aktivitas",
+      "target": "/Burschung",
+      "text": "Burschung"
+    },
+    {
+      "source": "/Alte-Aufnahmeriten",
+      "target": "/Bursen-%E2%80%93-erste-studentische-Wohngemeinschaften",
+      "text": "Bursen"
+    },
+    {
+      "source": "/Alte-Aufnahmeriten",
+      "target": "/Nationes",
+      "text": "Nationes"
+    },
+    {
+      "source": "/Altherrenschaft",
+      "target": "/Burschenconvent-BC",
+      "text": "Burschenconvent (BC)"
+    },
+    {
+      "source": "/Altherrenschaft",
+      "target": "/Bursch",
+      "text": "Burschen"
+    },
+    {
+      "source": "/Aufbau-einer-Verbindung",
+      "target": "/Statuten",
+      "text": "Statuten"
+    },
+    {
+      "source": "/Aufbau-einer-Verbindung",
+      "target": "/Gesch%C3%A4ftsordnung-GO",
+      "text": "Geschäftsordnung (GO)"
+    },
+    {
+      "source": "/Aufbau-einer-Verbindung",
+      "target": "/Aktivitas",
+      "text": "Aktivitas"
+    },
+    {
+      "source": "/Aufbau-einer-Verbindung",
+      "target": "/Altherrenschaft",
+      "text": "Altherrenschaft"
+    },
+    {
+      "source": "/Convente",
+      "target": "/Cumulativconvent-CC",
+      "text": "Cumulativconvent (CC)"
+    },
+    {
+      "source": "/Convente",
+      "target": "/Burschenconvent-BC",
+      "text": "Burschenconvent (BC)"
+    },
+    {
+      "source": "/Convente",
+      "target": "/Altherrenconvent-AHC",
+      "text": "Altherrenconvent (AHC)"
+    },
+    {
+      "source": "/Convente",
+      "target": "/Chargenconvent-ChC",
+      "text": "Chargenconvent (ChC)"
+    },
+    {
+      "source": "/Convente",
+      "target": "/Altherren-Chargenconvent-AHChC",
+      "text": "Altherren-Chargenconvent (AHChC)"
+    },
+    {
+      "source": "/Convente",
+      "target": "/Fuchsenconvent-FC",
+      "text": "Fuchsenconvent (FC)"
+    },
+    {
+      "source": "/Convente",
+      "target": "/Allgemeiner-Convent-AC",
+      "text": "Allgemeiner Convent (AC)"
+    },
+    {
+      "source": "/Convente",
+      "target": "/Gesangsconvent-GC",
+      "text": "Gesangsconvent (GC)"
+    },
+    {
+      "source": "/Entstehung-der-ersten-Hochschulen",
+      "target": "/Septem-Artes-Liberales",
+      "text": "Septem Artes Liberales"
+    },
+    {
+      "source": "/Fuchsia",
+      "target": "/Fuchsmajor-FM",
+      "text": "Fuchsmajor (FM)"
+    },
+    {
+      "source": "/Fuchsia",
+      "target": "/Convente",
+      "text": "Convente"
+    },
+    {
+      "source": "/Fuchsia",
+      "target": "/Leibbursch",
+      "text": "Leibbursch"
+    },
+    {
+      "source": "/Fuchsia",
+      "target": "/Spefuchs",
+      "text": "Spefuchs"
+    },
+    {
+      "source": "/Geschäftsordnung-GO",
+      "target": "/Statuten",
+      "text": "Statuten"
+    },
+    {
+      "source": "/Geschäftsordnung-GO",
+      "target": "/Ordnungen",
+      "text": "Ordnungen"
+    },
+    {
+      "source": "/Geschäftsordnung-GO",
+      "target": "/Comment",
+      "text": "Comment"
+    },
+    {
+      "source": "/Ordnungen",
+      "target": "/Gesch%C3%A4ftsordnung-GO",
+      "text": "Geschäftsordnung (GO)"
+    },
+    {
+      "source": "/Organe-der-Verbindung",
+      "target": "/Cumulativconvent-CC",
+      "text": "Cumulativconvent (CC)"
+    },
+    {
+      "source": "/Organe-der-Verbindung",
+      "target": "/Burschenconvent-BC",
+      "text": "Burschenconvent (BC)"
+    },
+    {
+      "source": "/Organe-der-Verbindung",
+      "target": "/Altherrenconvent-AHC",
+      "text": "Altherrenconvent (AHC)"
+    },
+    {
+      "source": "/Organe-der-Verbindung",
+      "target": "/Chargenconvent-ChC",
+      "text": "Chargenconvent (ChC)"
+    },
+    {
+      "source": "/Organe-der-Verbindung",
+      "target": "/Funktion%C3%A4re-und-Kommissionen",
+      "text": "Funktionäre und Kommissionen"
+    },
+    {
+      "source": "/Organe-der-Verbindung",
+      "target": "/Verbindungsgericht-VG",
+      "text": "Verbindungsgericht (VG)"
+    },
+    {
+      "source": "/Prinzipien",
+      "target": "/Religio",
+      "text": "Religio"
+    },
+    {
+      "source": "/Prinzipien",
+      "target": "/Patria",
+      "text": "Patria"
+    },
+    {
+      "source": "/Prinzipien",
+      "target": "/Scientia",
+      "text": "Scientia"
+    },
+    {
+      "source": "/Prinzipien",
+      "target": "/Amicitia",
+      "text": "Amicitia"
+    },
+    {
+      "source": "/Recht-in-der-Verbindung",
+      "target": "/Statuten",
+      "text": "Statuten"
+    },
+    {
+      "source": "/Recht-in-der-Verbindung",
+      "target": "/Gesch%C3%A4ftsordnung-GO",
+      "text": "Geschäftsordnung (GO)"
+    },
+    {
+      "source": "/Recht-in-der-Verbindung",
+      "target": "/Ordnungen",
+      "text": "Ordnungen"
+    },
+    {
+      "source": "/Recht-in-der-Verbindung",
+      "target": "/Haftung",
+      "text": "Haftung"
+    },
+    {
+      "source": "/Recht-in-der-Verbindung",
+      "target": "/Vertretungsbefugnis",
+      "text": "Vertretungsbefugnis"
+    },
+    {
+      "source": "/Vertretungsbefugnis",
+      "target": "/Chargenconvent-ChC",
+      "text": "Aktiven-ChC"
+    },
+    {
+      "source": "/Vertretungsbefugnis",
+      "target": "/Statuten",
+      "text": "Statuten"
+    },
     {
       "source": "/",
       "target": "/notes/setup",
