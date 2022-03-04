@@ -1,7 +1,8 @@
 ---
-title: 🪴 Quartz 3.1
+title: Couleur-Wiki
 ---
-Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
+Willkommen im Couleur-Wiki! (Testlauf)
+[Convente](Convente.md)
 1. Extremely fast full-text search by pressing `/`
 2. Display for backlinks of each note
 3. Fully customizable local graph view
