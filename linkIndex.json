@@ -4,6 +4,11 @@
       "/": [
         {
           "source": "/",
+          "target": "/Convente",
+          "text": "Convente"
+        },
+        {
+          "source": "/",
           "target": "/notes/setup",
           "text": "Setup your own digital garden using Quartz"
         },
@@ -527,6 +532,11 @@
       "/Convente": [
         {
           "source": "/Fuchsia",
+          "target": "/Convente",
+          "text": "Convente"
+        },
+        {
+          "source": "/",
           "target": "/Convente",
           "text": "Convente"
         }
@@ -1104,6 +1114,11 @@
       "source": "/Vertretungsbefugnis",
       "target": "/Statuten",
       "text": "Statuten"
+    },
+    {
+      "source": "/",
+      "target": "/Convente",
+      "text": "Convente"
     },
     {
       "source": "/",
